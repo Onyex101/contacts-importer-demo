@@ -1,5 +1,5 @@
 https://onyex101.github.io/contacts-importer-demo/
 
-ng build --prod --outputPath=docs --baseHref=”https://onyex101.github.io/contacts-importer-demo”
+ng build --prod --outputPath=docs --baseHref="https://onyex101.github.io/contacts-importer-demo/"
 
 https://blog.bitsrc.io/deploy-your-angular-project-to-github-pages-7cbacb96f35b

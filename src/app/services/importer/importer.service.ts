@@ -18,7 +18,7 @@ export class ImporterService {
       type: '',
       consumerkey: '54817295882-1k5qrjo33og0hht9kmingeddrom3458t.apps.googleusercontent.com',
       consumersecret: '58IPMHkdFm_FPsxB9nuxGrYH',
-      returnurl: 'https://onyex101.github.io/contacts-importer-demo',
+      returnurl: 'https://onyex101.github.io/contacts-importer-demo/auth',
       token: '',
     }
   }
