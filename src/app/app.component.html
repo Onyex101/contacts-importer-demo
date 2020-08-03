@@ -1,0 +1,11 @@
+<div class="box" *ngIf="displayButton">
+  <a (click)="auth()">Google</a>
+</div>
+<div class="form" *ngIf="!displayButton">
+  <div class="card" *ngFor="let address of emailList">
+    <div class="container">
+      <!-- <h4><b>{{address.name}}</b></h4> -->
+      <p>{{address.emailaddress}}</p>
+    </div>
+  </div>
+</div>
